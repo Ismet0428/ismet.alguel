@@ -7,7 +7,7 @@
   </p>
 </div>
 
-[![Email](https://img.shields.io/badge/Email-Khaledashrafamin%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ismet.alguel@proton.me)
+[![Email](https://img.shields.io/badge/Email-ismet.alguel%40proton.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ismet.alguel@proton.me)
 
 ---
 
